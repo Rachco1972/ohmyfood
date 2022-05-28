@@ -216,6 +216,10 @@ p {
   opacity: 1;
    transform: rotate(-360deg);
 }
+.card-menu:hover :nth-child(3) {
+    margin-right: 0px;
+    opacity: 1;
+  }
 
 .fa-solid.fa-circle-check {
   
